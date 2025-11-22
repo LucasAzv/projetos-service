@@ -1,0 +1,5 @@
+package model.entity;
+
+public enum StatusProjeto {
+    AGUARDANDO_ANALISE_PRELIMINAR,EM_ANALISE, PROJETO_RECUSADO,EM_ANDAMENTO,FINALIZADO
+}
